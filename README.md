@@ -1,5 +1,5 @@
-                                                  🧠 Streamlit Project
-                                                📄 Voice-to-Text Converter
+                                        🧠 Streamlit Project
+                                      📄 Voice-to-Text Converter
 
 📌 Project Overview
 
@@ -72,6 +72,7 @@ Python — programming language
 Streamlit — interactive front-end
 SpeechRecognition — convert audio to text
 PyAudio — microphone access
+
 👩‍💻 Created By
 
 Ushmitha Annapaneni
